@@ -9,7 +9,7 @@ This project does not provide any practical functionality and is mainly designed
 ## ✨ Features
 
 - 🚀 Bootable via GRUB  
-- 💻 Simple kernel written in Cpp  
+- 💻 Simple kernel written in C++  
 - 🖥️ Displays **"Hello from C++ Kernel!"** centered on the screen  
 - 👨‍💻 Shows author credit below the main message  
 - 🌈 Animated colorful progress bar at the bottom of the screen  
